@@ -26,9 +26,9 @@ For this analysis, only Excel and PowerPoint were used to perform the following 
 
 ## Key Questions and Findings
 
-###- Which game genres are performing the best to efficiently allocate the marketing budget?
-###- How are competitors gaining or losing market share, and how can this information be used to demonstrate business growth to investors?
-###- What are the trends in market dominance over time, and how can we ensure sufficient sales representation in key markets?
+- Which game genres are performing the best to efficiently allocate the marketing budget?
+- How are competitors gaining or losing market share, and how can this information be used to demonstrate business growth to investors?
+- What are the trends in market dominance over time, and how can we ensure sufficient sales representation in key markets?
 
 ### Sales trend analysis
 
@@ -54,4 +54,4 @@ The graph shows an exponential increase in sales starting from 1995, peaking in 
 
 
 
-**On a global scale, action, shooter, and sports games dominate in terms of sales. However, when examining the three biggest markets, cultural preferences significantly influence the popularity of different game genres.**
+##On a global scale, action, shooter, and sports games dominate in terms of sales. However, when examining the three biggest markets, cultural preferences significantly influence the popularity of different game genres.

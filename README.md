@@ -50,3 +50,7 @@ The graph shows an exponential increase in sales starting from 1995, peaking in 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78edce48-29cd-4e0d-bc01-2a7c1e5c65c1" width="400" />
 </p>
+
+
+
+<span style="color:blue">On a global scale, action, shooter, and sports games dominate in terms of sales. However, when examining the three biggest markets, cultural preferences significantly influence the popularity of different game genres.</span>

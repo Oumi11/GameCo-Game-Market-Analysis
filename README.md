@@ -25,10 +25,9 @@ For this analysis, only Excel and PowerPoint were used to perform the following 
 - Creating charts and visualizations, and presenting the report in PowerPoint
 
 ## Key Questions and Findings
+
 **- Which game genres are performing the best to efficiently allocate the marketing budget?**
-
 **- How are competitors gaining or losing market share, and how can this information be used to demonstrate business growth to investors?**
-
 **- What are the trends in market dominance over time, and how can we ensure sufficient sales representation in key markets?**
 
 ### Sales trend analysis

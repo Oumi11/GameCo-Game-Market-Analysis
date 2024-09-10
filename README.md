@@ -23,3 +23,21 @@ For this analysis, only Excel and PowerPoint were used to perform the following 
 - Descriptive analysis to calculate mean, median, mode, and max values
 - Data grouping, filtering, and summarizing using PivotTables
 - Creating charts and visualizations, and presenting the report in PowerPoint
+
+## Key Questions and Findings
+- Which game genres are performing the best to efficiently allocate the marketing budget?
+- How are competitors gaining or losing market share, and how can this information be used to demonstrate business growth to investors?
+- What are the trends in market dominance over time, and how can we ensure sufficient sales representation in key markets?
+
+### Sales trend analysis
+
+![image](https://github.com/user-attachments/assets/5d2e6d2b-5aeb-4749-91ca-fc03989f00c2)
+
+The graph shows an exponential increase in sales starting from 1995, peaking in 2008. However, by 2016, sales had significantly declined, returning to their original levels from the 1990s across different regions.
+
+### Global and Market Specific Game Genre Analysis
+![new games slaes global](https://github.com/user-attachments/assets/2b557ee4-12f8-4e24-b96d-afd0a650d813)
+
+![popular genre in NA](https://github.com/user-attachments/assets/78edce48-29cd-4e0d-bc01-2a7c1e5c65c1)   ![popular genre in EU](https://github.com/user-attachments/assets/81dc3e9e-ebc7-4aa6-b72f-5509d7566fdf)    ![popular genre in Japan](https://github.com/user-attachments/assets/1a229a8b-6cdf-4481-8b23-d7e51de0cc77)
+
+

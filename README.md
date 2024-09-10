@@ -10,4 +10,16 @@ Video game popularity market analysis
 ### GameCo is a new video game company looking to develop games based on market data. By analyzing existing video game trends, they aim to gain insights into how their future releases might perform in the competitive gaming industry.
 
 ## Business Understanding & Purpose
-By analyzing the gaming market over the years, GameCo 
+This analysis aims to provide GameCo with key insights into the gaming market, including the largest markets, the most popular game genres, and an overview of major competitors. The goal is to help GameCo make informed decisions as they develop new video games.
+
+## Data & Tools
+### 1)	Datasets
+The dataset covers the historical sales of video games that sold more than 10,000 copies, including various game consoles, genres, and publishing companies. The data was sourced from the VGChartz website.
+
+### 2)	Tools
+For this analysis, only Excel and PowerPoint were used to perform the following tasks:
+
+- Data cleaning (handling missing values, removing duplicates, and eliminating unnecessary rows and columns)
+- Descriptive analysis to calculate mean, median, mode, and max values
+- Data grouping, filtering, and summarizing using PivotTables
+- Creating charts and visualizations, and presenting the report in PowerPoint

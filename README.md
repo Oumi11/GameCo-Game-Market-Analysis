@@ -44,6 +44,10 @@ The graph shows an exponential increase in sales starting from 1995, peaking in 
   <p align="left">
   <img src="https://github.com/user-attachments/assets/81dc3e9e-ebc7-4aa6-b72f-5509d7566fdf" width="400" />
   <img src="https://github.com/user-attachments/assets/1a229a8b-6cdf-4481-8b23-d7e51de0cc77" width="400" />
+    
+</p>
+
+  <p align="center">
   <img src="https://github.com/user-attachments/assets/78edce48-29cd-4e0d-bc01-2a7c1e5c65c1" width="400" />
 </p>
 

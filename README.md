@@ -37,7 +37,7 @@ The graph shows an exponential increase in sales starting from 1995, peaking in 
 
 ### Global and Market Specific Game Genre Analysis
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2b557ee4-12f8-4e24-b96d-afd0a650d813" width="400" />
+  <img src="https://github.com/user-attachments/assets/2b557ee4-12f8-4e24-b96d-afd0a650d813" width="500" />
    <img src="https://github.com/user-attachments/assets/78edce48-29cd-4e0d-bc01-2a7c1e5c65c1" width="400" />
 </p>
 
